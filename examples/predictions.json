@@ -1,0 +1,21 @@
+[
+  {
+    "image": "frame-001.jpg",
+    "prompt": "person",
+    "label": "person",
+    "score": 0.91
+  },
+  {
+    "image": "frame-002.jpg",
+    "prompt": "person",
+    "label": "person",
+    "score": 0.77
+  },
+  {
+    "image": "frame-001.jpg",
+    "prompt": "bicycle",
+    "label": "bicycle",
+    "score": 0.68
+  }
+]
+
